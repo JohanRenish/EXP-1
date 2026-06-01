@@ -20,7 +20,7 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 
 PROCEDURE:
-a.   KVL
+a.   KVL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
 3.   Check all the meters for null position.
@@ -44,34 +44,26 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
-
-![0469b9fc-d08c-4c82-b914-bb72e0866071](https://github.com/user-attachments/assets/93116b53-33cf-46cf-b989-3e6d9103f592)
-
  
+
+![img1](https://github.com/user-attachments/assets/3e43ba85-6f4e-48af-9b52-ca94ff7af04c)
 
 
 b.  KCL:
 
-![03d0eaf8-1112-488e-9bd8-4e7bde952ac0](https://github.com/user-attachments/assets/6974a9e6-45ae-429c-9b05-113e9202043b)
-
- 
+![Img2](https://github.com/user-attachments/assets/c36bb8aa-c448-4c1d-aa75-4ed32c919cd1)
 
 Calculation:
 
-a.   KVL:
 
-![b6b30c02-2c2c-4625-b171-b8c2cbb2519f](https://github.com/user-attachments/assets/13f92a48-415e-4f01-81e1-3c5387c6fc97)
-
- ![0ef3c86b-e8a5-43b1-b1bc-c5c9cf81a522](https://github.com/user-attachments/assets/60b83b01-ae6f-48b0-9689-6fbf2866ef08)
+![img3](https://github.com/user-attachments/assets/f72de23f-1b5d-4cde-a582-d25a388b6a13)
 
 
 
-b.  KCL:
+![img4](https://github.com/user-attachments/assets/745c1f24-d676-4248-8437-545b4616326a)
 
-![649e24b3-5b30-4b77-9e50-e377c94d4244](https://github.com/user-attachments/assets/4311645e-7b1d-4f16-884e-d98439d490d0)
 
-![08a16189-ae3d-4444-8823-52d167cfeea9](https://github.com/user-attachments/assets/70d2de31-4d56-4196-ae2b-186ebaf1f913)
-
+![img5](https://github.com/user-attachments/assets/32808077-90be-4dac-bbff-776f227f66ef)
 
 
 Tabulation:
@@ -79,14 +71,12 @@ Tabulation:
 
 a.   KVL:
  
- ![ecb0bdd8-3f9f-462c-9cb4-73382606abd3](https://github.com/user-attachments/assets/f0811c7e-34c1-4b81-aa69-68d5b25f7a29)
-
-
+<img width="937" height="601" alt="EXP-1 1" src="https://github.com/user-attachments/assets/1ca75d50-a313-49e6-8289-af126e051b2f" />
 
 b.  KCL:
 
-![fa1dedad-c176-4a78-baf3-f58e146fe416](https://github.com/user-attachments/assets/2826b819-b915-4613-9b2c-126e0016ba9c)
 
+<img width="859" height="520" alt="1 2" src="https://github.com/user-attachments/assets/2c11fbb7-b465-4ae7-b752-bbeb1d0f1cf9" />
 
 
 
