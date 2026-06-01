@@ -72,13 +72,11 @@ Tabulation:
 a.   KVL:
  
 
-<img width="937" height="601" alt="EXP-1 1" src="https://github.com/user-attachments/assets/a1e41d27-4bd4-4437-978f-b3266d93558d" />
+![img6](https://github.com/user-attachments/assets/7eeea8ee-c8d3-4624-9cd4-10bc70ab79b6)
 
 b.  KCL:
 
-
-<img width="859" height="520" alt="1 2" src="https://github.com/user-attachments/assets/61634630-1b2a-4351-8b40-23a2142ad4ce" />
-
+![img7](https://github.com/user-attachments/assets/a6a41ca1-644b-44de-bf22-fa358dfa0d12)
 
 
 RESULT:
